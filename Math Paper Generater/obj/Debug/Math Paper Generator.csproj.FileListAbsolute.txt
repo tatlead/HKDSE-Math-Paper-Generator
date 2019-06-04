@@ -22,3 +22,27 @@ F:\Math Paper Generater\Math Paper Generater\Math Paper Generater\obj\Debug\Math
 F:\Math Paper Generater\Math Paper Generater\Math Paper Generater\obj\Debug\Math Paper Generator.csproj.CopyComplete
 F:\Math Paper Generater\Math Paper Generater\Math Paper Generater\obj\Debug\Math Paper Generater.exe
 F:\Math Paper Generater\Math Paper Generater\Math Paper Generater\obj\Debug\Math Paper Generater.pdb
+C:\Users\HkdseThomas\Documents\GitHub\HKDSE-Math-Paper-Generator\Math Paper Generater\bin\Debug\Math Paper Generater.exe.config
+C:\Users\HkdseThomas\Documents\GitHub\HKDSE-Math-Paper-Generator\Math Paper Generater\bin\Debug\Math Paper Generater.exe.manifest
+C:\Users\HkdseThomas\Documents\GitHub\HKDSE-Math-Paper-Generator\Math Paper Generater\bin\Debug\Math Paper Generater.application
+C:\Users\HkdseThomas\Documents\GitHub\HKDSE-Math-Paper-Generator\Math Paper Generater\bin\Debug\Math Paper Generater.exe
+C:\Users\HkdseThomas\Documents\GitHub\HKDSE-Math-Paper-Generator\Math Paper Generater\bin\Debug\Math Paper Generater.pdb
+C:\Users\HkdseThomas\Documents\GitHub\HKDSE-Math-Paper-Generator\Math Paper Generater\bin\Debug\itextsharp.dll
+C:\Users\HkdseThomas\Documents\GitHub\HKDSE-Math-Paper-Generator\Math Paper Generater\bin\Debug\WpfMath.dll
+C:\Users\HkdseThomas\Documents\GitHub\HKDSE-Math-Paper-Generator\Math Paper Generater\bin\Debug\itextsharp.xml
+C:\Users\HkdseThomas\Documents\GitHub\HKDSE-Math-Paper-Generator\Math Paper Generater\bin\Debug\WpfMath.pdb
+C:\Users\HkdseThomas\Documents\GitHub\HKDSE-Math-Paper-Generator\Math Paper Generater\obj\Debug\Math Paper Generator.csprojAssemblyReference.cache
+C:\Users\HkdseThomas\Documents\GitHub\HKDSE-Math-Paper-Generator\Math Paper Generater\obj\Debug\MainWindow.g.cs
+C:\Users\HkdseThomas\Documents\GitHub\HKDSE-Math-Paper-Generator\Math Paper Generater\obj\Debug\App.g.cs
+C:\Users\HkdseThomas\Documents\GitHub\HKDSE-Math-Paper-Generator\Math Paper Generater\obj\Debug\Math Paper Generater_MarkupCompile.cache
+C:\Users\HkdseThomas\Documents\GitHub\HKDSE-Math-Paper-Generator\Math Paper Generater\obj\Debug\Math Paper Generater_MarkupCompile.lref
+C:\Users\HkdseThomas\Documents\GitHub\HKDSE-Math-Paper-Generator\Math Paper Generater\obj\Debug\MainWindow.baml
+C:\Users\HkdseThomas\Documents\GitHub\HKDSE-Math-Paper-Generator\Math Paper Generater\obj\Debug\Math Paper Generater.g.resources
+C:\Users\HkdseThomas\Documents\GitHub\HKDSE-Math-Paper-Generator\Math Paper Generater\obj\Debug\Math_Paper_Generater.Properties.Resources.resources
+C:\Users\HkdseThomas\Documents\GitHub\HKDSE-Math-Paper-Generator\Math Paper Generater\obj\Debug\Math Paper Generator.csproj.GenerateResource.cache
+C:\Users\HkdseThomas\Documents\GitHub\HKDSE-Math-Paper-Generator\Math Paper Generater\obj\Debug\Math Paper Generator.csproj.CoreCompileInputs.cache
+C:\Users\HkdseThomas\Documents\GitHub\HKDSE-Math-Paper-Generator\Math Paper Generater\obj\Debug\Math Paper Generater.exe.manifest
+C:\Users\HkdseThomas\Documents\GitHub\HKDSE-Math-Paper-Generator\Math Paper Generater\obj\Debug\Math Paper Generater.application
+C:\Users\HkdseThomas\Documents\GitHub\HKDSE-Math-Paper-Generator\Math Paper Generater\obj\Debug\Math Paper Generator.csproj.CopyComplete
+C:\Users\HkdseThomas\Documents\GitHub\HKDSE-Math-Paper-Generator\Math Paper Generater\obj\Debug\Math Paper Generater.exe
+C:\Users\HkdseThomas\Documents\GitHub\HKDSE-Math-Paper-Generator\Math Paper Generater\obj\Debug\Math Paper Generater.pdb

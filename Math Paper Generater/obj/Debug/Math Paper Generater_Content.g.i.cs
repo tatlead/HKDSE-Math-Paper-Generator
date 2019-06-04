@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("properties/apps-libreoffice-math-icon.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("icon_al8_icon.ico")]
 
 

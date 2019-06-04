@@ -14,14 +14,14 @@
     <framework targetVersion="4.6.1" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Math Paper Generater.exe.manifest" size="4836">
+    <dependentAssembly dependencyType="install" codebase="Math Paper Generater.exe.manifest" size="5310">
       <assemblyIdentity name="Math Paper Generater.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ps6GEoLZLviBTPgw8jawMRKDLyKpSSuINlYiuv2Z8J0=</dsig:DigestValue>
+        <dsig:DigestValue>k3lTO3ADCAKtf+wJo5YIzZSGkeFIB+s/qwcOCFJv58Q=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
