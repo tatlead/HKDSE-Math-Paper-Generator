@@ -1,0 +1,24 @@
+F:\Math Paper Generater\Math Paper Generater\Math Paper Generater\bin\Debug\Math Paper Generater.exe.config
+F:\Math Paper Generater\Math Paper Generater\Math Paper Generater\bin\Debug\Math Paper Generater.exe.manifest
+F:\Math Paper Generater\Math Paper Generater\Math Paper Generater\bin\Debug\Math Paper Generater.application
+F:\Math Paper Generater\Math Paper Generater\Math Paper Generater\bin\Debug\Math Paper Generater.exe
+F:\Math Paper Generater\Math Paper Generater\Math Paper Generater\bin\Debug\Math Paper Generater.pdb
+F:\Math Paper Generater\Math Paper Generater\Math Paper Generater\bin\Debug\itextsharp.dll
+F:\Math Paper Generater\Math Paper Generater\Math Paper Generater\bin\Debug\WpfMath.dll
+F:\Math Paper Generater\Math Paper Generater\Math Paper Generater\bin\Debug\itextsharp.xml
+F:\Math Paper Generater\Math Paper Generater\Math Paper Generater\bin\Debug\WpfMath.pdb
+F:\Math Paper Generater\Math Paper Generater\Math Paper Generater\obj\Debug\Math Paper Generator.csprojAssemblyReference.cache
+F:\Math Paper Generater\Math Paper Generater\Math Paper Generater\obj\Debug\MainWindow.g.cs
+F:\Math Paper Generater\Math Paper Generater\Math Paper Generater\obj\Debug\App.g.cs
+F:\Math Paper Generater\Math Paper Generater\Math Paper Generater\obj\Debug\Math Paper Generater_MarkupCompile.cache
+F:\Math Paper Generater\Math Paper Generater\Math Paper Generater\obj\Debug\Math Paper Generater_MarkupCompile.lref
+F:\Math Paper Generater\Math Paper Generater\Math Paper Generater\obj\Debug\MainWindow.baml
+F:\Math Paper Generater\Math Paper Generater\Math Paper Generater\obj\Debug\Math Paper Generater.g.resources
+F:\Math Paper Generater\Math Paper Generater\Math Paper Generater\obj\Debug\Math_Paper_Generater.Properties.Resources.resources
+F:\Math Paper Generater\Math Paper Generater\Math Paper Generater\obj\Debug\Math Paper Generator.csproj.GenerateResource.cache
+F:\Math Paper Generater\Math Paper Generater\Math Paper Generater\obj\Debug\Math Paper Generator.csproj.CoreCompileInputs.cache
+F:\Math Paper Generater\Math Paper Generater\Math Paper Generater\obj\Debug\Math Paper Generater.exe.manifest
+F:\Math Paper Generater\Math Paper Generater\Math Paper Generater\obj\Debug\Math Paper Generater.application
+F:\Math Paper Generater\Math Paper Generater\Math Paper Generater\obj\Debug\Math Paper Generator.csproj.CopyComplete
+F:\Math Paper Generater\Math Paper Generater\Math Paper Generater\obj\Debug\Math Paper Generater.exe
+F:\Math Paper Generater\Math Paper Generater\Math Paper Generater\obj\Debug\Math Paper Generater.pdb

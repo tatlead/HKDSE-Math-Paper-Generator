@@ -1,0 +1,18 @@
+﻿<Window x:Class="Math_Paper_Generater.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Math_Paper_Generater"
+        mc:Ignorable="d"
+        Title="HKDSE Mathematics Paper Generator v1.1" Height="800" Width="550" Icon="icon.png">
+    <Grid>
+        <Button Content="Generate" Margin="218,10,0,0" Height="26" Width="100" VerticalAlignment="Top" Click="Generate_Click" HorizontalAlignment="Left"/>
+        <Button Content="Random Generate" Margin="0,10,10,0"  Height="26" Width="150" VerticalAlignment="Top" Click="RandomGenerate_Click" HorizontalAlignment="Right"/>
+        <Label Content="Seed:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="26" Margin="49,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="170" x:Name="textbox" TextChanged="Textbox_TextChanged"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="11,41,0,0" VerticalAlignment="Top" x:Name="label"/>
+        <WebBrowser Margin="10,41,10,40" x:Name="pdfWebViewer"/>
+
+    </Grid>
+</Window>
